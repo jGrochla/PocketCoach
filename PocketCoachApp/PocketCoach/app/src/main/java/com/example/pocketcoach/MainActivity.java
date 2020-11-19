@@ -28,6 +28,5 @@ public class MainActivity extends AppCompatActivity {
         }else {
             textViewLogInStatus.setText(getString(R.string.logged_in));
         }
-
     }
 }
