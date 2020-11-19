@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
     private FirebaseAuth firebaseAuth; // to check if the user is logged in
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
