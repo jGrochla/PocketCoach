@@ -595,6 +595,7 @@
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="default_web_client_id" translatable="false">567526057282-1t9u37896ej1vh91sceje6m1fh35496h.apps.googleusercontent.com</string>
     <string name="email_hint">E-Mail Adresse</string>
+    <string name="email_send_info">Die Email zum zurücksetzten des Passworts wurde versendet</string>
     <string name="firebase_database_url" translatable="false">https://pocketcoach-e995e.firebaseio.com</string>
     <string name="forgot_password">Password vergessen?</string>
     <string name="gcm_defaultSenderId" translatable="false">567526057282</string>
@@ -606,14 +607,18 @@
     <string name="log_out_info_negativ">Sie sind bereits ausgeloggt</string>
     <string name="log_out_info_positiv">Sie wurden erfolgreich ausgeloggt</string>
     <string name="logged_in">Eingeloggt</string>
+    <string name="negativ_button_text">Zurück</string>
     <string name="no_successful_log_in">Du musst erst deine Email Adresse über den Link in deinem Postfach bestätigen.</string>
     <string name="not_logged_in">Nicht eingeloggt</string>
     <string name="password_hint">Passwort</string>
+    <string name="positiv_button_text">Passwort zurücksetzten</string>
     <string name="project_id" translatable="false">pocketcoach-e995e</string>
+    <string name="reset_dialog_titel">Password zurücksetzten</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="successful_log_in">Login war erfolgreich</string>
     <string name="verify_mail">Die verifikations Mail wurde verschickt. Bitte bestätige sie in deinem Postfach. </string>
+    <string name="warning_no_email_text">Bitte gib deine Email Adresse an</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

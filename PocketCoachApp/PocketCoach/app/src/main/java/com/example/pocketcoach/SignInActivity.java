@@ -1,10 +1,13 @@
 package com.example.pocketcoach;
 
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.InputType;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -44,9 +47,10 @@ public class SignInActivity extends AppCompatActivity implements View.OnClickLis
         buttonLogIn            = (Button)   findViewById(R.id.buttonLogIn);
         buttonRegister         = (Button)   findViewById(R.id.buttonRegister);
 
-        // add On Click Listener to the Buttons
+        // add On Click Listener to the Buttons and the textView
         buttonLogIn.setOnClickListener(this);
         buttonRegister.setOnClickListener(this);
+        textViewForgotPassword.setOnClickListener(this);
 
         // impementation of the mAuthListener
         mAuthListener = new FirebaseAuth.AuthStateListener() {
@@ -83,7 +87,7 @@ public class SignInActivity extends AppCompatActivity implements View.OnClickLis
 
     /***********************************************************************************************
      * ON CLICK
-     * reacts when a button is clicked
+     * reacts when a button or the TextView is clicked
      * this method is called through the OnClickListener
      **********************************************************************************************/
     @Override
@@ -100,6 +104,9 @@ public class SignInActivity extends AppCompatActivity implements View.OnClickLis
                 email = editTextEMail.getText().toString();
                 password = editTextPassword.getText().toString();
                 registrate(email, password);
+                break;
+            case R.id.textViewForgotPassword:
+                sendResetPasswordMail();
                 break;
         }
     }
@@ -161,6 +168,58 @@ public class SignInActivity extends AppCompatActivity implements View.OnClickLis
                     }
 
                 });
+    }
+
+    /***********************************************************************************************
+     * SEND RESET PASSWORD MAIL
+     * to reset the users password
+     **********************************************************************************************/
+    private void sendResetPasswordMail(){
+        AlertDialog.Builder builder = new AlertDialog.Builder(SignInActivity.this);
+        builder.setTitle(getString(R.string.reset_dialog_titel));
+        final EditText mailInput = new EditText(this);
+        mailInput.setInputType(InputType.TYPE_TEXT_VARIATION_EMAIL_ADDRESS);
+        builder.setView(mailInput);
+
+        builder.setPositiveButton(getString(R.string.positiv_button_text),
+                new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int which) {
+                String mail = mailInput.getText().toString().trim();
+                if(mail.isEmpty()) {
+                    Toast.makeText(getApplicationContext(),
+                            getString(R.string.warning_no_email_text),
+                            Toast.LENGTH_LONG).show();
+                    dialogInterface.dismiss();
+                }else{
+                    firebaseAuth.sendPasswordResetEmail(mail)
+                            .addOnCompleteListener(new OnCompleteListener<Void>() {
+                                @Override
+                                public void onComplete(@NonNull Task<Void> task) {
+                                    if(task.isSuccessful()){
+                                        Log.d(TAG, "Email send");
+                                        Toast.makeText(getApplicationContext(),
+                                                getString(R.string.email_send_info),
+                                                Toast.LENGTH_LONG).show();
+                                    }else{
+                                        Toast.makeText(getApplicationContext(),
+                                                task.getException().getMessage(),
+                                                Toast.LENGTH_LONG).show();
+                                    }
+                                }
+                            });
+                }
+            }
+        });
+        builder.setNegativeButton(getString(R.string.negativ_button_text),
+                new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int which) {
+                        dialogInterface.dismiss();
+                    }
+                });
+        AlertDialog dialog = builder.create();
+        dialog.show();
     }
 
     /***********************************************************************************************

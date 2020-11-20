@@ -21,4 +21,11 @@
     // Strings for the Log Out
     <string name="log_out_info_positiv">Sie wurden erfolgreich ausgeloggt</string>
     <string name="log_out_info_negativ">Sie sind bereits ausgeloggt</string>
+
+    // Strings to reset the Password
+    <string name="reset_dialog_titel">Password zurücksetzten</string>
+    <string name="positiv_button_text">Passwort zurücksetzten</string>
+    <string name="negativ_button_text">Zurück</string>
+    <string name="warning_no_email_text">Bitte gib deine Email Adresse an</string>
+    <string name="email_send_info">Die Email zum zurücksetzten des Passworts wurde versendet</string>
 </resources>

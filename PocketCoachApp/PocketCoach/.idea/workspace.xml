@@ -12,13 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="244ff206-f213-4f19-86d2-71a05de04fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pocketcoach/SignInActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_in.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pocketcoach/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pocketcoach/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pocketcoach/SignInActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pocketcoach/SignInActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_in.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,11 +227,11 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="346" y="362" key="edit.logcat.filter.dialog.dimensions/167.1073.1440.877/0.23.1680.1027@0.23.1680.1027" timestamp="1605703050353" />
-    <state width="456" height="113" key="javadoc.popup.new" timestamp="1605888988248">
+    <state width="456" height="113" key="javadoc.popup.new" timestamp="1605890621527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="456" height="113" key="javadoc.popup.new/0.0.1440.900@0.0.1440.900" timestamp="1605888988248" />
-    <state width="456" height="113" key="javadoc.popup.new/0.23.1440.877@0.23.1440.877" timestamp="1605875108715" />
+    <state width="456" height="113" key="javadoc.popup.new/0.0.1440.900@0.0.1440.900" timestamp="1605890621527" />
+    <state width="456" height="113" key="javadoc.popup.new/0.23.1440.877@0.23.1440.877" timestamp="1605890269546" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1605792517183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
