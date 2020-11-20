@@ -1,8 +1,24 @@
 <resources>
     <string name="app_name">PocketCoach</string>
 
-    // Strings for the Log In Status
+    // Strings for the Log In Status in the Main Activity
     <string name="logged_in">Eingeloggt</string>
     <string name="not_logged_in">Nicht eingeloggt</string>
+    
+    //Log In Activity UI Strings
+    <string name="info_text">Logge dich ein oder registriere dich!</string>
+    <string name="button_log_in_text">Einloggen</string>
+    <string name="button_register_text">Registrieren</string>
+    <string name="forgot_password">Password vergessen?</string>
+    <string name="password_hint">Passwort</string>
+    <string name="email_hint">E-Mail Adresse</string>
 
+    // Strings for the Log In Process
+    <string name="verify_mail">Die verifikations Mail wurde verschickt. Bitte bestätige sie in deinem Postfach. </string>
+    <string name="successful_log_in">Login war erfolgreich</string>
+    <string name="no_successful_log_in">Du musst erst deine Email Adresse über den Link in deinem Postfach bestätigen.</string>
+
+    // Strings for the Log Out
+    <string name="log_out_info_positiv">Sie wurden erfolgreich ausgeloggt</string>
+    <string name="log_out_info_negativ">Sie sind bereits ausgeloggt</string>
 </resources>
