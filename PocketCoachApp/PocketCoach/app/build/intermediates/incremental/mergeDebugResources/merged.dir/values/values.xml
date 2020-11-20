@@ -598,6 +598,8 @@
     <string name="google_app_id" translatable="false">1:567526057282:android:e66a8096c9f4157e8414db</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBHwBP9RydSHnaLsumK9DhR5ugWBNjpSDI</string>
     <string name="google_storage_bucket" translatable="false">pocketcoach-e995e.appspot.com</string>
+    <string name="logged_in">Eingeloggt</string>
+    <string name="not_logged_in">Nicht eingeloggt</string>
     <string name="project_id" translatable="false">pocketcoach-e995e</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>

@@ -4,37 +4,37 @@ ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:2:1-23:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1fb9e56b605b6945062db28818eec327/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/85617a0bd0c144064dce7eaf3664b2d0/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:17:1-83:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/df244ec1d2c44ae00cd79b12f5a621a8/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/76b69f6bfb518494bd796f77e79a7b54/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/60f4000c40c028dd0f185566d3f5c0b7/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1d3a58b451da1475223005d9c0ecb835/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:15:1-40:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/fb6838f587eeea66073c12395a70ec77/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2a38911dfcd618f6f10b3261ee4a7ed5/jetified-play-services-basement-17.1.0/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2b05aad9dc0c842b67aa6b74b758e925/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1f2f6e35597700a1fa707c525aa71aef/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/11172b2018848e40e6dbe829ee37e0b5/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c589a8b64c92fc3d250c179a2678c2b5/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/09dcbb207ea52056cbf59bbf8caf7ddf/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/a7f18c87f0cc9b4b0f1ef8d7b581ed7c/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6197a1e4fd17706b41f50968ca5cdc46/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/dfa225602080814c2106175b3407a619/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/43fec0ffec2be122a8289ea4146bb8ff/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/33718701d713ca3e83325f7dda0e045d/core-1.3.1/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6f34602dfbf6f8fb5b6931b9e45859b5/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-components:16.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/94cd135dd4aa392d78c4f8800a30c030/jetified-firebase-components-16.0.1/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e3a897727134335945e5b7466b359ad3/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bf0d8c71753067ba2d37cabb0afc6623/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/dfdc173b9e9a119c75e973b9c3eb249b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/322c4f0d35a3e589252b3ec955278361/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1194b4176f690b6ad8f4bbafe658a3e2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/90d33a8875fc59537bb250405703d764/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/95cc9f2fcfa049a1ad57159744705a8d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6434bafc874cde149eb69b150086541b/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/3701e9653f876850c07414763fb9f811/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/f65e7d690d0436991c66205f0487ed30/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:17:1-83:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e9b32f1278a4b3f1620db3345b7e4d0b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c469f8778db9d7a8acc051b21b3c3ca4/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bb3efe1c93dad9ff04b281495cf52648/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/a5038f937d1616c689aa6edabbcef8eb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2687f413e3b480923e9cfb03ada2cf45/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c77d530a894c9cdc1e02ae73843c5ba2/jetified-play-services-basement-17.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1ec30c166f15e178e079379197761518/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/82bb583f0faf8eb0f3dc9e0e707cb382/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/78a0eaa00907390817aec93ff5e492d8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/f046aa3367043922c8e066525c0df9e1/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/828e9e3cd00c64963bd14381033de3d1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/4dce118352c589f77d67c64c910f8568/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/54224c02eb0fcc5851c7966bfab3929d/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/4be8cd57484bdd323af627c0bacddf66/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/9a1b06c267579a91bb4231252b8deea4/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/cdfea8f3da9d3d8e26bbb73a40c2de98/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/8c32280e7ca510cc26504f44ad41608f/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bc79581c4bd9e4058c17afc6098af6df/jetified-firebase-components-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/9e093b173e0d75d429119beb7e212738/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/70dd64f3963e6f2d1be72ce921f5016a/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/ba607578b7f0b2be5a26f4a5663aaed8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/11d0bad460fa83ee17823ee5dec559b6/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/616513930b2d8570c7c0caf2b6f7c974/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18ea51404843894a6b33202520cfa6b9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1f88a34bd3df3bc12fd8542ddf50c1fa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/55b73ed8661a8bc109a236a63617686e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:2:1-23:12
@@ -54,28 +54,28 @@ INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_I
 		ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1fb9e56b605b6945062db28818eec327/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1fb9e56b605b6945062db28818eec327/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:26:5-81:19
-MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:26:5-81:19
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/60f4000c40c028dd0f185566d3f5c0b7/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/60f4000c40c028dd0f185566d3f5c0b7/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1d3a58b451da1475223005d9c0ecb835/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1d3a58b451da1475223005d9c0ecb835/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
-MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/fb6838f587eeea66073c12395a70ec77/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/fb6838f587eeea66073c12395a70ec77/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2a38911dfcd618f6f10b3261ee4a7ed5/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2a38911dfcd618f6f10b3261ee4a7ed5/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/33718701d713ca3e83325f7dda0e045d/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/33718701d713ca3e83325f7dda0e045d/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e3a897727134335945e5b7466b359ad3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e3a897727134335945e5b7466b359ad3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/3701e9653f876850c07414763fb9f811/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/3701e9653f876850c07414763fb9f811/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bb3efe1c93dad9ff04b281495cf52648/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bb3efe1c93dad9ff04b281495cf52648/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/a5038f937d1616c689aa6edabbcef8eb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/a5038f937d1616c689aa6edabbcef8eb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2687f413e3b480923e9cfb03ada2cf45/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2687f413e3b480923e9cfb03ada2cf45/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c77d530a894c9cdc1e02ae73843c5ba2/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c77d530a894c9cdc1e02ae73843c5ba2/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/cdfea8f3da9d3d8e26bbb73a40c2de98/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/cdfea8f3da9d3d8e26bbb73a40c2de98/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/9e093b173e0d75d429119beb7e212738/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/9e093b173e0d75d429119beb7e212738/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/33718701d713ca3e83325f7dda0e045d/core-1.3.1/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/cdfea8f3da9d3d8e26bbb73a40c2de98/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
@@ -104,76 +104,76 @@ ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/
 		ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:16:27-74
 uses-permission#android.permission.INTERNET
 ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:21:5-66
-MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml:21:22-64
 uses-sdk
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1fb9e56b605b6945062db28818eec327/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1fb9e56b605b6945062db28818eec327/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/85617a0bd0c144064dce7eaf3664b2d0/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/85617a0bd0c144064dce7eaf3664b2d0/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/df244ec1d2c44ae00cd79b12f5a621a8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/df244ec1d2c44ae00cd79b12f5a621a8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/76b69f6bfb518494bd796f77e79a7b54/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/76b69f6bfb518494bd796f77e79a7b54/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/60f4000c40c028dd0f185566d3f5c0b7/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/60f4000c40c028dd0f185566d3f5c0b7/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1d3a58b451da1475223005d9c0ecb835/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1d3a58b451da1475223005d9c0ecb835/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/fb6838f587eeea66073c12395a70ec77/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/fb6838f587eeea66073c12395a70ec77/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2a38911dfcd618f6f10b3261ee4a7ed5/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2a38911dfcd618f6f10b3261ee4a7ed5/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2b05aad9dc0c842b67aa6b74b758e925/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2b05aad9dc0c842b67aa6b74b758e925/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1f2f6e35597700a1fa707c525aa71aef/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1f2f6e35597700a1fa707c525aa71aef/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/11172b2018848e40e6dbe829ee37e0b5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/11172b2018848e40e6dbe829ee37e0b5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c589a8b64c92fc3d250c179a2678c2b5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c589a8b64c92fc3d250c179a2678c2b5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/09dcbb207ea52056cbf59bbf8caf7ddf/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/09dcbb207ea52056cbf59bbf8caf7ddf/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/a7f18c87f0cc9b4b0f1ef8d7b581ed7c/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/a7f18c87f0cc9b4b0f1ef8d7b581ed7c/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6197a1e4fd17706b41f50968ca5cdc46/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6197a1e4fd17706b41f50968ca5cdc46/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/dfa225602080814c2106175b3407a619/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/dfa225602080814c2106175b3407a619/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/43fec0ffec2be122a8289ea4146bb8ff/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/43fec0ffec2be122a8289ea4146bb8ff/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/33718701d713ca3e83325f7dda0e045d/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/33718701d713ca3e83325f7dda0e045d/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6f34602dfbf6f8fb5b6931b9e45859b5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6f34602dfbf6f8fb5b6931b9e45859b5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-components:16.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/94cd135dd4aa392d78c4f8800a30c030/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/94cd135dd4aa392d78c4f8800a30c030/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e3a897727134335945e5b7466b359ad3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e3a897727134335945e5b7466b359ad3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bf0d8c71753067ba2d37cabb0afc6623/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bf0d8c71753067ba2d37cabb0afc6623/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/dfdc173b9e9a119c75e973b9c3eb249b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/dfdc173b9e9a119c75e973b9c3eb249b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/322c4f0d35a3e589252b3ec955278361/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/322c4f0d35a3e589252b3ec955278361/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1194b4176f690b6ad8f4bbafe658a3e2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1194b4176f690b6ad8f4bbafe658a3e2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/90d33a8875fc59537bb250405703d764/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/90d33a8875fc59537bb250405703d764/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/95cc9f2fcfa049a1ad57159744705a8d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/95cc9f2fcfa049a1ad57159744705a8d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6434bafc874cde149eb69b150086541b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/6434bafc874cde149eb69b150086541b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/3701e9653f876850c07414763fb9f811/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/3701e9653f876850c07414763fb9f811/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/f65e7d690d0436991c66205f0487ed30/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/f65e7d690d0436991c66205f0487ed30/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e9b32f1278a4b3f1620db3345b7e4d0b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e9b32f1278a4b3f1620db3345b7e4d0b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c469f8778db9d7a8acc051b21b3c3ca4/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c469f8778db9d7a8acc051b21b3c3ca4/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bb3efe1c93dad9ff04b281495cf52648/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bb3efe1c93dad9ff04b281495cf52648/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/a5038f937d1616c689aa6edabbcef8eb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/a5038f937d1616c689aa6edabbcef8eb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2687f413e3b480923e9cfb03ada2cf45/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2687f413e3b480923e9cfb03ada2cf45/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c77d530a894c9cdc1e02ae73843c5ba2/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c77d530a894c9cdc1e02ae73843c5ba2/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1ec30c166f15e178e079379197761518/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1ec30c166f15e178e079379197761518/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/82bb583f0faf8eb0f3dc9e0e707cb382/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/82bb583f0faf8eb0f3dc9e0e707cb382/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/78a0eaa00907390817aec93ff5e492d8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/78a0eaa00907390817aec93ff5e492d8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/f046aa3367043922c8e066525c0df9e1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/f046aa3367043922c8e066525c0df9e1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/828e9e3cd00c64963bd14381033de3d1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/828e9e3cd00c64963bd14381033de3d1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/4dce118352c589f77d67c64c910f8568/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/4dce118352c589f77d67c64c910f8568/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/54224c02eb0fcc5851c7966bfab3929d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/54224c02eb0fcc5851c7966bfab3929d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/4be8cd57484bdd323af627c0bacddf66/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/4be8cd57484bdd323af627c0bacddf66/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/9a1b06c267579a91bb4231252b8deea4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/9a1b06c267579a91bb4231252b8deea4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/cdfea8f3da9d3d8e26bbb73a40c2de98/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/cdfea8f3da9d3d8e26bbb73a40c2de98/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/8c32280e7ca510cc26504f44ad41608f/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/8c32280e7ca510cc26504f44ad41608f/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bc79581c4bd9e4058c17afc6098af6df/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/bc79581c4bd9e4058c17afc6098af6df/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/9e093b173e0d75d429119beb7e212738/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/9e093b173e0d75d429119beb7e212738/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/70dd64f3963e6f2d1be72ce921f5016a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/70dd64f3963e6f2d1be72ce921f5016a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/ba607578b7f0b2be5a26f4a5663aaed8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/ba607578b7f0b2be5a26f4a5663aaed8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/11d0bad460fa83ee17823ee5dec559b6/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/11d0bad460fa83ee17823ee5dec559b6/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/616513930b2d8570c7c0caf2b6f7c974/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/616513930b2d8570c7c0caf2b6f7c974/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18ea51404843894a6b33202520cfa6b9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18ea51404843894a6b33202520cfa6b9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1f88a34bd3df3bc12fd8542ddf50c1fa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1f88a34bd3df3bc12fd8542ddf50c1fa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/55b73ed8661a8bc109a236a63617686e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/55b73ed8661a8bc109a236a63617686e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml
 INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -185,112 +185,112 @@ INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_I
 		ADDED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/nilswagner/Documents/HSHL/Semester_7/Assistenztechnologie_III/AbschlussProjekt_PocketCoach/Git_Struktur_ordner/PocketCoach/PocketCoachApp/PocketCoach/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:24:5-79
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:24:22-76
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:24:22-76
 activity#com.google.firebase.auth.internal.GenericIdpActivity
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:27:9-44:20
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:27:9-44:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:29:13-46
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:29:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:31:13-44
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:31:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:30:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:32:13-72
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:32:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:28:13-80
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:28:13-80
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:33:13-43:29
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:33:13-43:29
 action#android.intent.action.VIEW
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:34:17-69
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:34:25-66
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:34:25-66
 category#android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:36:17-76
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:36:27-73
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:36:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:37:17-78
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:37:17-78
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:37:27-75
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:37:27-75
 data
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:39:17-42:51
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:39:17-42:51
 	android:path
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:41:21-37
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:41:21-37
 	android:host
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:40:21-49
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:40:21-49
 	android:scheme
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:42:21-48
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:42:21-48
 activity#com.google.firebase.auth.internal.RecaptchaActivity
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:45:9-62:20
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:45:9-62:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:47:13-46
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:47:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:49:13-44
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:49:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:48:13-36
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:48:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:50:13-72
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:50:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:46:13-79
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:46:13-79
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:51:13-61:29
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:51:13-61:29
 service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:64:9-73:19
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:64:9-73:19
 	android:enabled
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:66:13-35
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:66:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:67:13-37
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:67:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:65:13-101
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:65:13-101
 intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:68:13-72:29
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:68:13-72:29
 action#com.google.firebase.auth.api.gms.service.START
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:69:17-89
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:69:17-89
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:69:25-86
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:69:25-86
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:74:9-80:19
-MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
-MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:76:13-37
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:76:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:37:13-32
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:37:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:35:13-43
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:75:13-84
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:75:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:77:13-79:85
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:77:13-79:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:79:17-82
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:79:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/0733df5e6f8b2dd60652fd74c7e15c92/jetified-firebase-auth-20.0.1/AndroidManifest.xml:78:17-109
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/1e516b41c11a3c77410f7ed5454fe678/jetified-firebase-auth-20.0.1/AndroidManifest.xml:78:17-109
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/18b63455f7cdf2e55499d904fd0b4a4d/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/d92a27efcac738b4f280b9ad0c07bda7/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:26:9-31:39
+ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:26:9-31:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:30:13-37
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:29:13-43
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:29:13-43
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:31:13-36
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/e0cfb2d2aa2913de5dacb0d980e31aa9/jetified-firebase-common-19.4.0/AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/5500978cd02395a8bf5bbed55985b128/jetified-firebase-common-19.4.0/AndroidManifest.xml:27:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2a38911dfcd618f6f10b3261ee4a7ed5/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c77d530a894c9cdc1e02ae73843c5ba2/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2a38911dfcd618f6f10b3261ee4a7ed5/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c77d530a894c9cdc1e02ae73843c5ba2/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/2a38911dfcd618f6f10b3261ee4a7ed5/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/nilswagner/.gradle/caches/transforms-2/files-2.1/c77d530a894c9cdc1e02ae73843c5ba2/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58
