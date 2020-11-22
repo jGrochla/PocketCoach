@@ -128,7 +128,7 @@ void loop() {
 
   
 
-  
+   
   
   Serial.print(mediumExponentialFilterX);
   Serial.print(" ");
