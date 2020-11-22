@@ -111,9 +111,15 @@ void loop() {
   
   Serial.print(mediumExponentialFilterX);
   Serial.print(" ");
+  Serial.print(mediumExponentialFilterY);
+  Serial.print(" ");
   Serial.print(mediumExponentialFilterZ);
   Serial.print(" ");
-  Serial.println(mediumExponentialFilterGyY);
+  Serial.print(mediumExponentialFilterGyX);
+  Serial.print(" ");
+  Serial.print(mediumExponentialFilterGyY);
+  Serial.print(" ");
+  Serial.println(mediumExponentialFilterGyZ);
   
   
   
