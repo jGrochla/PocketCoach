@@ -59,6 +59,13 @@ void loop() {
   Wire.requestFrom(MPU_addr, 2, true); // request a total of 2 registers
   AcX = Wire.read() << 8 | Wire.read(); // 0x3B (ACCEL_XOUT_H) & 0x3C (ACCEL_XOUT_L)
 
+  //Reading y-acceleration
+  Wire.beginTransmission(MPU_addr);
+  Wire.write(0x3D); // starting with register 0x3B (ACCEL_XOUT_H)
+  Wire.endTransmission(false);
+  Wire.requestFrom(MPU_addr, 2, true); // request a total of 2 registers
+  AcY = Wire.read() << 8 | Wire.read(); // 0x3B (ACCEL_XOUT_H) & 0x3C (ACCEL_XOUT_L)
+
   //Reading z-acceleration
   Wire.beginTransmission(MPU_addr);
   Wire.write(0x3F); // starting with register 0x3F (ACCEL_ZOUT_H)
@@ -66,12 +73,26 @@ void loop() {
   Wire.requestFrom(MPU_addr, 2, true); // request a total 2 registers
   AcZ = Wire.read() << 8 | Wire.read(); // 0x3F (ACCEL_ZOUT_H) & 0x40 (ACCEL_ZOUT_L)
 
+  //Reading x-gyroscope
+  Wire.beginTransmission(MPU_addr);
+  Wire.write(0x43); // starting with register 0x45 (GYRO_YOUT_L)
+  Wire.endTransmission(false);
+  Wire.requestFrom(MPU_addr, 2, true); // request a total of 2 registers
+  GyX = Wire.read() << 8 | Wire.read(); // 0x45 (GYRO_YOUT_H) & 0x46 (GYRO_YOUT_L)
+
   //Reading y-gyroscope
   Wire.beginTransmission(MPU_addr);
   Wire.write(0x45); // starting with register 0x45 (GYRO_YOUT_L)
   Wire.endTransmission(false);
   Wire.requestFrom(MPU_addr, 2, true); // request a total of 2 registers
   GyY = Wire.read() << 8 | Wire.read(); // 0x45 (GYRO_YOUT_H) & 0x46 (GYRO_YOUT_L)
+  
+  //Reading z-gyroscope
+  Wire.beginTransmission(MPU_addr);
+  Wire.write(0x47); // starting with register 0x45 (GYRO_YOUT_L)
+  Wire.endTransmission(false);
+  Wire.requestFrom(MPU_addr, 2, true); // request a total of 2 registers
+  GyZ = Wire.read() << 8 | Wire.read(); // 0x45 (GYRO_YOUT_H) & 0x46 (GYRO_YOUT_L)
   
 
   static float expMediumX = AcX;//Needed for the first time, because of the implementation as function.
