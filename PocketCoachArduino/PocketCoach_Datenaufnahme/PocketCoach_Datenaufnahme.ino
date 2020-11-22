@@ -5,14 +5,17 @@
 #include<Wire.h>
 
 const int MPU_addr = 0x68; // I2C address of the MPU-6050
-int16_t AcX, AcZ, GyY;
+int16_t AcX, AcY, AcZ, GyX, GyY, GyZ;
 
 float expFilterAlpha[3] = {largeAlpha, mediumAlpha, smallAlpha};
 
 
 float mediumExponentialFilterX;
 float mediumExponentialFilterZ;
-float mediumExponentialFilterGY;
+float mediumExponentialFilterY;
+float mediumExponentialFilterGyX;
+float mediumExponentialFilterGyY;
+float mediumExponentialFilterGyZ;
 
 
 
@@ -71,21 +74,36 @@ void loop() {
   GyY = Wire.read() << 8 | Wire.read(); // 0x45 (GYRO_YOUT_H) & 0x46 (GYRO_YOUT_L)
   
 
-  static float expMediumX = AcX;   //Needed for the first time, because of the implementation as function.
+  static float expMediumX = AcX;//Needed for the first time, because of the implementation as function.
+  static float expMediumY = AcY;
   static float expMediumZ = AcZ;  //Otherwise the Angles would be adulterated at the first measurements
-  static float expMediumGY = GyY;
-
+  static float expMediumGyX = GyX;
+  static float expMediumGyY = GyY;
+  static float expMediumGyZ = GyZ;
+  
   //medium Alpha means medium Exponential Filter effect
   expMediumX = expFilterAlpha[1] * AcX + (1 - expFilterAlpha[1]) * expMediumX;
   mediumExponentialFilterX = expMediumX ;
+
+   //medium Alpha means medium Exponential Filter effect
+  expMediumY = expFilterAlpha[1] * AcY + (1 - expFilterAlpha[1]) * expMediumY;
+  mediumExponentialFilterY = expMediumY ;
 
   //medium Alpha means medium Exponential Filter effect
   expMediumZ = expFilterAlpha[1] * AcZ + (1 - expFilterAlpha[1]) * expMediumZ;
   mediumExponentialFilterZ = expMediumZ ;
 
   //medium Alpha means medium Exponential Filter effect
-  expMediumGY = expFilterAlpha[1] * GyY + (1 - expFilterAlpha[1]) * expMediumGY;
-  mediumExponentialFilterGY = expMediumGY ;
+  expMediumGyX = expFilterAlpha[1] * GyX + (1 - expFilterAlpha[1]) * expMediumGyX;
+  mediumExponentialFilterGyX = expMediumGyX ;
+
+  //medium Alpha means medium Exponential Filter effect
+  expMediumGyY = expFilterAlpha[1] * GyY + (1 - expFilterAlpha[1]) * expMediumGyY;
+  mediumExponentialFilterGyY = expMediumGyY ;
+
+  //medium Alpha means medium Exponential Filter effect
+  expMediumGyZ = expFilterAlpha[1] * GyZ + (1 - expFilterAlpha[1]) * expMediumGyZ;
+  mediumExponentialFilterGyZ = expMediumGyZ ;
 
   
 
@@ -95,7 +113,7 @@ void loop() {
   Serial.print(" ");
   Serial.print(mediumExponentialFilterZ);
   Serial.print(" ");
-  Serial.println(mediumExponentialFilterGY);
+  Serial.println(mediumExponentialFilterGyY);
   
   
   
